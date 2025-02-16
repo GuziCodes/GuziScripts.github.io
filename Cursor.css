@@ -13,9 +13,9 @@ body {
 
 .Bg-image1 {
     width: auto;
-    height: 300px;
+    height: 40vh;
     display: block;
-    margin-top: 10px; /* Adds spacing between heading and image */
+    margin-top: 3em; /* Adds spacing between heading and image */
 }
         .trail {
             position: absolute;
